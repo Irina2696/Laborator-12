@@ -66,7 +66,10 @@ int main()
             cout<<"Stiva de numere intregi este goala"<<endl;
 		c.pop();
 		cout<<c.top()<<endl;
-
+	
+	cout<<"Fisierul a fost modificat"<<endl;
+	int x=0;
+	cout<<"x="<<x;
 
         return 0;
 }
